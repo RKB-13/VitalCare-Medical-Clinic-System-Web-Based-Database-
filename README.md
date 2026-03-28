@@ -68,27 +68,37 @@ Open any of the following files:
 
 ### Doctors
 | Email | Password |
-ebeardsworth1@mac.com                    FCFVB6yp0KJgfkzjnBTDuQ==
-emcquillan2@about.me                    XrXpu+DPh4LxA3iEyl02BA==
-nkyrkeman3@foxnews.com                    VucuKo2e6LEGpS7rPzBv0g==
+
+ebeardsworth1@mac.com       |                           FCFVB6yp0KJgfkzjnBTDuQ==
+
+emcquillan2@about.me         |                          XrXpu+DPh4LxA3iEyl02BA==
+
+nkyrkeman3@foxnews.com       |                          VucuKo2e6LEGpS7rPzBv0g==
 
 
 ---
 
 ### Patients
 | Email | Password |
-lvasilik0@java.com       bYsEiTQLufR/jA7Gvn4hRA==
-mcharke1@cafepress.com       gY9HhZwgNqCdc6ZK02XDLQ==
-anorvill2@msn.com        AofmPNXAi4lU/aVTapGlDw==
-adunston3@bigcartel.com        1zlIgd0Qixh65xVYcapaug==
+
+lvasilik0@java.com   |                                   bYsEiTQLufR/jA7Gvn4hRA==
+
+mcharke1@cafepress.com  |                                gY9HhZwgNqCdc6ZK02XDLQ==
+
+anorvill2@msn.com  |                                    AofmPNXAi4lU/aVTapGlDw==
+
+adunston3@bigcartel.com |                              1zlIgd0Qixh65xVYcapaug==
 
 ---
 
 ### Admins
 | Email | Password |
-skestian0@telegraph.co.uk     4Jmyozx1rD9kpjawvndwsw==
-jellsworthe1@time.com        Oh8wiJ5V0yzOP2cb5iBh4Q==
-rbrenneke2@mapy.cz          wrH6rjrPs9lVMMZ5UH8bGg==
+
+skestian0@telegraph.co.uk |                             4Jmyozx1rD9kpjawvndwsw==
+
+jellsworthe1@time.com  |                               Oh8wiJ5V0yzOP2cb5iBh4Q==
+
+rbrenneke2@mapy.cz    |                                wrH6rjrPs9lVMMZ5UH8bGg==
 
 
 ---
